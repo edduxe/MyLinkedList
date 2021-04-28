@@ -1,7 +1,7 @@
 /* Authors:
- * Ali Nazar // alna0203  // alna0203@student.su.se // 19910508-4959 
- * Mehdi Rahimi // mera9128 // mera9128@student.su.se // 19840118-0610
- * Michel Nickbon // mile3894 // mile3894@student.su.se // 19911028-4296
+ * Ali Nazar // alna0203  // alna0203@student.su.se // 
+ * Mehdi Rahimi // mera9128 // mera9128@student.su.se // 
+ * Michel Nickbon // mile3894 // mile3894@student.su.se // 
  * 
  * */
 
